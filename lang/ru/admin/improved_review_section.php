@@ -1,0 +1,10 @@
+<?
+$MESS["IMPROVED_REVIEW_DEL_CONF_SECT"] = "Удалить всю группу отзывов?";
+$MESS["IMPROVED_REVIEW_HEAD_ELEMENT_ID"] = "Элемент";
+$MESS["IMPROVED_REVIEW_ADMIN_TITLE"] = "Управление отзывами";
+$MESS["IMPROVED_REVIEW_ADMIN_ELEMENT_NAV"] = "Элементы";
+$MESS["IMPROVED_REVIEW_HEAD_REVIEW_CNT"] = "Отзывов";
+$MESS["IMPROVED_REVIEW_HEAD_ELEMENT_PAGE"] = "Страница с элементом";
+$MESS["IMPROVED_REVIEW_ELEMENT_PAGE"] = "Перейти";
+$MESS["IMPROVED_REVIEW_ADMIN_ELEMENT_NAV"] = "Элементы";
+?>

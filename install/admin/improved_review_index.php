@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/improved.review/admin/improved_review_index.php");?>

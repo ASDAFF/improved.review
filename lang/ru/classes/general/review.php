@@ -1,0 +1,78 @@
+<?
+$MESS["IMPROVED_REVIEW_BAN_STATUS_USER"] = "Ваши сообщения заблокированы модератором";
+$MESS["IMPROVED_REVIEW_IBLOCK_ELEMENT_NOT_FOUND"] = "Указанный элемент не найден";
+$MESS["IMPROVED_REVIEW_EMPTY_AUTHOR_NAME_PUB"] = "Не указано имя";
+$MESS["IMPROVED_REVIEW_EMPTY_AUTHOR_EMAIL"] = "Не указан e-mail";
+$MESS["IMPROVED_REVIEW_EMPTY_AUTHOR_BAD_EMAIL"] = "Неверно указан e-mail";
+$MESS["IMPROVED_REVIEW_EMPTY_MESSAGE"] = "Комментарий: Текст сообщения не задан";
+$MESS["IMPROVED_REVIEW_EMPTY_MESSAGE_PLUS"] = "Достоинства: Текст сообщения не задан";
+
+$MESS["IMPROVED_REVIEW_CF_AUTHOR_EXISTS"] = "Автор уже существует и не принадлежит указанному пользователю";
+$MESS["IMPROVED_REVIEW_CF_MAIL_BUSY"] = "Данный e-mail занят другим пользователем";
+
+$MESS["IMPROVED_REVIEW_COMMENTS_MESSAGE_BAD_WORD"] = 'Комментарий: Текст содержит запрещенное слово: #B_WORD#';
+$MESS["IMPROVED_REVIEW_COMMENTS_MESSAGE_PLUS_BAD_WORD"] = 'Достоинства: Текст содержит запрещенное слово: #B_WORD#';
+$MESS["IMPROVED_REVIEW_COMMENTS_MESSAGE_MINUS_BAD_WORD"] = 'Недостатки: Текст содержит запрещенное слово: #B_WORD#';
+
+
+
+$MESS['IMPROVED_REVIEW_TODAY'] = "Сегодня";
+$MESS['IMPROVED_REVIEW_YESTERDAY'] = "Вчера";
+
+$MESS['IMPROVED_REVIEW_PMONTH_1'] = "Января";
+$MESS['IMPROVED_REVIEW_PMONTH_2'] = "Февраля";
+$MESS['IMPROVED_REVIEW_PMONTH_3'] = "Марта";
+$MESS['IMPROVED_REVIEW_PMONTH_4'] = "Апреля";
+$MESS['IMPROVED_REVIEW_PMONTH_5'] = "Мая";
+$MESS['IMPROVED_REVIEW_PMONTH_6'] = "Июня";
+$MESS['IMPROVED_REVIEW_PMONTH_7'] = "Июля";
+$MESS['IMPROVED_REVIEW_PMONTH_8'] = "Августа";
+$MESS['IMPROVED_REVIEW_PMONTH_9'] = "Сентября";
+$MESS['IMPROVED_REVIEW_PMONTH_10'] = "Октября";
+$MESS['IMPROVED_REVIEW_PMONTH_11'] = "Ноября";
+$MESS['IMPROVED_REVIEW_PMONTH_12'] = "Декабря";
+
+$MESS['IMPROVED_REVIEW_MONTH_1'] = "Январь";
+$MESS['IMPROVED_REVIEW_MONTH_2'] = "Февраль";
+$MESS['IMPROVED_REVIEW_MONTH_3'] = "Март";
+$MESS['IMPROVED_REVIEW_MONTH_4'] = "Апрель";
+$MESS['IMPROVED_REVIEW_MONTH_5'] = "Май";
+$MESS['IMPROVED_REVIEW_MONTH_6'] = "Июнь";
+$MESS['IMPROVED_REVIEW_MONTH_7'] = "Июль";
+$MESS['IMPROVED_REVIEW_MONTH_8'] = "Август";
+$MESS['IMPROVED_REVIEW_MONTH_9'] = "Сентябрь";
+$MESS['IMPROVED_REVIEW_MONTH_10'] = "Октябрь";
+$MESS['IMPROVED_REVIEW_MONTH_11'] = "Ноябрь";
+$MESS['IMPROVED_REVIEW_MONTH_12'] = "Декабрь";
+$MESS['IMPROVED_REVIEW_MON_1'] = "Янв";
+$MESS['IMPROVED_REVIEW_MON_2'] = "Фев";
+$MESS['IMPROVED_REVIEW_MON_3'] = "Мар";
+$MESS['IMPROVED_REVIEW_MON_4'] = "Апр";
+$MESS['IMPROVED_REVIEW_MON_5'] = "Май";
+$MESS['IMPROVED_REVIEW_MON_6'] = "Июн";
+$MESS['IMPROVED_REVIEW_MON_7'] = "Июл";
+$MESS['IMPROVED_REVIEW_MON_8'] = "Авг";
+$MESS['IMPROVED_REVIEW_MON_9'] = "Сен";
+$MESS['IMPROVED_REVIEW_MON_10'] = "Окт";
+$MESS['IMPROVED_REVIEW_MON_11'] = "Ноя";
+$MESS['IMPROVED_REVIEW_MON_12'] = "Дек";
+$MESS['IMPROVED_REVIEW_DAY_OF_WEEK_0'] = "Воскресенье";
+$MESS['IMPROVED_REVIEW_DAY_OF_WEEK_1'] = "Понедельник";
+$MESS['IMPROVED_REVIEW_DAY_OF_WEEK_2'] = "Вторник";
+$MESS['IMPROVED_REVIEW_DAY_OF_WEEK_3'] = "Среда";
+$MESS['IMPROVED_REVIEW_DAY_OF_WEEK_4'] = "Четверг";
+$MESS['IMPROVED_REVIEW_DAY_OF_WEEK_5'] = "Пятница";
+$MESS['IMPROVED_REVIEW_DAY_OF_WEEK_6'] = "Суббота";
+$MESS['IMPROVED_REVIEW_DOW_0'] = "Вс";
+$MESS['IMPROVED_REVIEW_DOW_1'] = "Пн";
+$MESS['IMPROVED_REVIEW_DOW_2'] = "Вт";
+$MESS['IMPROVED_REVIEW_DOW_3'] = "Ср";
+$MESS['IMPROVED_REVIEW_DOW_4'] = "Чт";
+$MESS['IMPROVED_REVIEW_DOW_5'] = "Пт";
+$MESS['IMPROVED_REVIEW_DOW_6'] = "Сб";
+
+$MESS["IMPROVED_REVIEW_INDEX_MESS"] = "Отзыв к #ELEMENT_NAME#";
+$MESS['IMPROVED_CP_EV_PLUS'] = "Достоинства:";
+$MESS['IMPROVED_CP_EV_MINUS'] = "Недостатки:";
+$MESS['IMPROVED_CP_EV_COMMENT'] = "Комментарий:";
+?>

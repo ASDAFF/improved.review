@@ -1,0 +1,16 @@
+<?
+$MESS["IMPROVED_REVIEW_MENU_TEXT"] = "Отзывы";
+$MESS["IMPROVED_REVIEW_MENU_TITILE"] = "Отзывы к товарам";
+
+$MESS["IMPROVED_REVIEW_MENU_SECTION_TEXT"] = "Отзывы по элементам";
+$MESS["IMPROVED_REVIEW_MENU_SECTION_TITLE"] = "Отзывы по элементам";
+
+$MESS["IMPROVED_REVIEW_MENU_LIST_TEXT"] = "Отзывы";
+$MESS["IMPROVED_REVIEW_MENU_LIST_TITLE"] = "Отзывы списком";
+
+$MESS["IMPROVED_REVIEW_MENU_ABUSE_TEXT"] = "Жалобы";
+$MESS["IMPROVED_REVIEW_MENU_ABUSE_TITLE"] = "Жалобы на отзывы";
+
+$MESS["IMPROVED_REVIEW_MENU_RATING_TEXT"] = "Рейтинги";
+$MESS["IMPROVED_REVIEW_MENU_RATING_TITLE"] = "Список дополнительных рейтингов";
+?>

@@ -1,0 +1,5 @@
+<?
+$MESS["IMPROVED_REVIEW_RATING_LIST_HEADER"] = "Рейтинг";
+$MESS["IMPROVED_REVIEW_RATING_LIST_TITLE"] = "Список рейтингов";
+$MESS["IMPROVED_REVIEW_ADD_RATING"] = "Добавить рейтинг";
+?>

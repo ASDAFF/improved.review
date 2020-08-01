@@ -1,0 +1,6 @@
+<?
+$MESS["IMPROVED_DESC_SECTION_NAME"] = "IS-MARKET.RU";
+$MESS["IMPROVED_DESC_REVIEW_NAME"] = "Отзывы";
+$MESS["IMPROVED_DESC_REVIEW_DESCRIPTION"] = "Выводит список отзывов и форму добавления";
+$MESS["IMPROVED_DESC_REVIEW_SECTION_NAME"] = "Отзывы";
+?>

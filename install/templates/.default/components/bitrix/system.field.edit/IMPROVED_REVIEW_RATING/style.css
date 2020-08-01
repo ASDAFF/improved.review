@@ -1,0 +1,23 @@
+.alx_reviews_form_vote_uf
+{
+       float:left;
+	text-align:right;
+/*    margin-left:-15px;*/
+}
+.alx_reviews_form_vote_uf .alx_reviews_form_vote_items
+{
+	float:right;
+	margin-left:13px;
+}
+.alx_reviews_form_vote_uf .alx_reviews_form_vote_items .alx_reviews_form_vote_item
+{
+	float:left;
+	width:14px;
+	height:15px;
+	margin-left:2px;
+	background:url(images/vote_bg.png) 0px 0px no-repeat;
+}
+.alx_reviews_form_vote_uf .alx_reviews_form_vote_items .alx_reviews_form_vote_item_sel
+{
+	background:url(images/vote_bg.png) 0px -15px no-repeat;
+}
